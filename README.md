@@ -1,4 +1,4 @@
-# alma_hub
+# Alma-hub: An Egaging, Spportive Aumni-Sudents Iteraction Patform
 
 A new Flutter project.
 
